@@ -5,4 +5,3 @@ A spike sorting algorithm for classifying neuron action potential (off-line). Th
   <img src="https://user-images.githubusercontent.com/60844959/153716675-36aa0b9f-1c5e-4ed3-a545-0d7d5ef2eaaf.png" />
 </p>
 
-![image](https://user-images.githubusercontent.com/60844959/153716916-d4539f0a-c281-419b-b297-96068cba57fc.png)
