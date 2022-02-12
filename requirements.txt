@@ -1,0 +1,7 @@
+seaborn
+scipy
+sklearn
+numpy
+pywavelets
+matplotlib
+
